@@ -13,10 +13,6 @@ List<Food> foodList = [
   Food(name: "Tacos",
       image: "5.jpg",
       price: 3.72),
-  Food(name: "Cereals",
-      image: "1.jpg",
-      price: 5.99),
-
 ];
 
 class Popular extends StatefulWidget {
