@@ -1,6 +1,6 @@
 # food_app_concept
 
-A new Flutter application.
+A new Flutter application-Used To Order Your Favourite Food
 
 ## Getting Started
 
