@@ -10,7 +10,7 @@ List<Food> foodList = [
   Food(name: "Massala",
   image: "3.jpg",
   price: 13.99),
-  Food(name: "Taccos",
+  Food(name: "Tacos",
       image: "5.jpg",
       price: 3.72),
   Food(name: "Cereals",
